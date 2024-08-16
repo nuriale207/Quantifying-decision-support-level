@@ -93,7 +93,7 @@ if __name__ == '__main__':
 
     #Get the data texts and labels in a list
     texts, labels = data_loader.load_data(args.test_data_dir, args.csv_sep, args.labels_default_start_index, args.text_column_mame)
-    texts=texts[:10]
+    # texts=texts[:10]
     # texts=["This is a test sentence","This is another test sentence"]
     #Load the model and tokenizer
     if args.model_path=="model_id":

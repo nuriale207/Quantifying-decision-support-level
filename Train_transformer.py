@@ -123,7 +123,7 @@ if __name__ == '__main__':
             eval_steps=100,
             load_best_model_at_end=True,
             seed=args.seed,
-            fp16=True,
+            # fp16=True,
             metric_for_best_model="f1_micro",
             adam_epsilon=args.adam_epsilon
         )
