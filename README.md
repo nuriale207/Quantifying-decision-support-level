@@ -20,7 +20,7 @@ This script is designed to train and evaluate a multi-label classification clini
 conditions from Spanish medical records. It allows for fine-tuning and evaluation on custom datasets.
 
 ```
-python script1.py --training_data_dir <path_to_training_data> --test_data_dir <path_to_test_data> 
+python Train_transformer.py --training_data_dir <path_to_training_data> --test_data_dir <path_to_test_data> 
 --eval_data_dir <path_to_eval_data> --mode <train_or_test> [other_arguments]
 
 ```
@@ -108,7 +108,7 @@ explainability methods to highlight important features contributing to the model
 Usage
 You can run the script with the following command:
 ```
-python script2.py --test_data_dir <path_to_test_data> [other_arguments]
+python Get_transformer_explainability.py --test_data_dir <path_to_test_data> [other_arguments]
 ```
 
 ### Arguments
