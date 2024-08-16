@@ -1,0 +1,11 @@
+/bert-finetuned-sem_eval-english/
+/test_trainer/
+/Mimic_IV_data/
+/legacy/bert_model
+/legacy/bert_model_3labels
+/legacy/data.html
+/legacy/data2.html
+/legacy/data3.html
+/legacy/discharge_notes_raw_sectioned_testing_corpus_icds_v2_test.csv
+/legacy/discharge_notes_raw_sectioned_testing_corpus_icds_v2_train.csv
+/legacy/discharge_notes_raw_sectioned_testing_corpus_v2_dev.csv
