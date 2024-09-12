@@ -2,11 +2,14 @@
 This repository contains the code used for the scientific paper titled "Quantifying Decision Support Level of 
 Explainable Automatic Classification of Diagnoses in Spanish Medical Records." The code includes scripts for 
 model training (Train_transformer.py) and explainability extraction and evaluation (Get_transformer_explainability.py). The usage of this software is open for research purposes and is bound to the citation of the article:
-Title: Quantifying Decision Support Level of Explainable Automatic Classification of Diagnoses in Spanish Medical Records
-Authors: Nuria Lebeña, Alicia Pérez, Arantza Casillas
-Journal: Computers in Biology and Medicine
-Vol.: TBA
-Date: TBA
+Nuria Lebeña, Alicia Pérez, Arantza Casillas,
+Quantifying decision support level of explainable automatic classification of diagnoses in Spanish medical records,
+Computers in Biology and Medicine,
+Volume 182,
+2024,
+109127,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2024.109127.
 
 #### Installation
 Before running the scripts, ensure that you have all the required libraries installed. The necessary libraries are 
